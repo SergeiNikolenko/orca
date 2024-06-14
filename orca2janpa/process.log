@@ -4203,3 +4203,362 @@ Renaming molden.input to molden for 41409_conformation_optimized_0_1
 Running molden2molden for 41409_conformation_optimized_0_1
 Renaming molden.input to molden for 30173_conformation_optimized_3_1
 Running molden2molden for 30173_conformation_optimized_3_1
+Moving 14503_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 14503_conformation_optimized_1_-1
+Copying files for 52396_conformation_optimized_1_-1
+Running ORCA for 52396_conformation_optimized_1_-1
+Moving 3259_conformation_optimized_0_0_janpa.out to janpa_done
+Deleting temporary directory for 3259_conformation_optimized_0_0
+Copying files for 45574_conformation_optimized_1_1
+Running ORCA for 45574_conformation_optimized_1_1
+Moving 31555_conformation_optimized_3_1_janpa.out to janpa_done
+Deleting temporary directory for 31555_conformation_optimized_3_1
+Copying files for 37222_conformation_optimized_4_1
+Running ORCA for 37222_conformation_optimized_4_1
+Renaming molden.input to molden for 37222_conformation_optimized_4_1
+Running molden2molden for 37222_conformation_optimized_4_1
+Renaming molden.input to molden for 52396_conformation_optimized_1_-1
+Running molden2molden for 52396_conformation_optimized_1_-1
+Running JANPA for 26633_conformation_optimized_2_-1
+Moving 50224_conformation_optimized_3_0_janpa.out to janpa_done
+Deleting temporary directory for 50224_conformation_optimized_3_0
+Copying files for 1809_conformation_optimized_1_-1
+Running ORCA for 1809_conformation_optimized_1_-1
+Renaming molden.input to molden for 1809_conformation_optimized_1_-1
+Running molden2molden for 1809_conformation_optimized_1_-1
+Moving 50806_conformation_optimized_4_1_janpa.out to janpa_done
+Deleting temporary directory for 50806_conformation_optimized_4_1
+Copying files for 37222_conformation_optimized_3_0
+Renaming molden.input to molden for 45574_conformation_optimized_1_1
+Running ORCA for 37222_conformation_optimized_3_0
+Running molden2molden for 45574_conformation_optimized_1_1
+Running JANPA for 1809_conformation_optimized_1_-1
+Running JANPA for 30173_conformation_optimized_3_1
+Renaming molden.input to molden for 37222_conformation_optimized_3_0
+Running molden2molden for 37222_conformation_optimized_3_0
+Moving 35916_conformation_optimized_4_-1_janpa.out to janpa_done
+Deleting temporary directory for 35916_conformation_optimized_4_-1
+Copying files for 21608_conformation_optimized_1_-1
+Running ORCA for 21608_conformation_optimized_1_-1
+Renaming molden.input to molden for 21608_conformation_optimized_1_-1
+Running molden2molden for 21608_conformation_optimized_1_-1
+Running JANPA for 37222_conformation_optimized_3_0
+Moving 8041_conformation_optimized_4_-1_janpa.out to janpa_done
+Deleting temporary directory for 8041_conformation_optimized_4_-1
+Running JANPA for 21608_conformation_optimized_1_-1
+Copying files for 19422_conformation_optimized_4_1
+Running JANPA for 37222_conformation_optimized_4_1
+Running ORCA for 19422_conformation_optimized_4_1
+Renaming molden.input to molden for 19422_conformation_optimized_4_1
+Running molden2molden for 19422_conformation_optimized_4_1
+Moving 1809_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 1809_conformation_optimized_1_-1
+Copying files for 35845_conformation_optimized_1_1
+Running ORCA for 35845_conformation_optimized_1_1
+Renaming molden.input to molden for 35845_conformation_optimized_1_1
+Running molden2molden for 35845_conformation_optimized_1_1
+Running JANPA for 19422_conformation_optimized_4_1
+Moving 40915_conformation_optimized_1_1_janpa.out to janpa_done
+Deleting temporary directory for 40915_conformation_optimized_1_1
+Copying files for 50770_conformation_optimized_1_-1
+Running ORCA for 50770_conformation_optimized_1_-1
+Running JANPA for 41409_conformation_optimized_0_1
+Renaming molden.input to molden for 50770_conformation_optimized_1_-1
+Running molden2molden for 50770_conformation_optimized_1_-1
+Running JANPA for 35845_conformation_optimized_1_1
+Running JANPA for 45574_conformation_optimized_1_1
+Running JANPA for 52396_conformation_optimized_1_-1
+Moving 25597_conformation_optimized_3_-1_janpa.out to janpa_done
+Deleting temporary directory for 25597_conformation_optimized_3_-1
+Copying files for 24304_conformation_optimized_3_1
+Running ORCA for 24304_conformation_optimized_3_1
+Renaming molden.input to molden for 24304_conformation_optimized_3_1
+Running molden2molden for 24304_conformation_optimized_3_1
+Running JANPA for 50770_conformation_optimized_1_-1
+Moving 18371_conformation_optimized_4_1_janpa.out to janpa_done
+Deleting temporary directory for 18371_conformation_optimized_4_1
+Copying files for 26512_conformation_optimized_1_1
+Running ORCA for 26512_conformation_optimized_1_1
+Moving 27135_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 27135_conformation_optimized_1_-1
+Moving 24349_conformation_optimized_2_-1_janpa.out to janpa_done
+Deleting temporary directory for 24349_conformation_optimized_2_-1
+Copying files for 34238_conformation_optimized_3_-1
+Copying files for 50572_conformation_optimized_1_1
+Running ORCA for 50572_conformation_optimized_1_1
+Running ORCA for 34238_conformation_optimized_3_-1
+Renaming molden.input to molden for 50572_conformation_optimized_1_1
+Running molden2molden for 50572_conformation_optimized_1_1
+Renaming molden.input to molden for 34238_conformation_optimized_3_-1
+Running molden2molden for 34238_conformation_optimized_3_-1
+Renaming molden.input to molden for 26512_conformation_optimized_1_1
+Running molden2molden for 26512_conformation_optimized_1_1
+Running JANPA for 50572_conformation_optimized_1_1
+Moving 9561_conformation_optimized_4_0_janpa.out to janpa_done
+Deleting temporary directory for 9561_conformation_optimized_4_0
+Copying files for 50775_conformation_optimized_1_1
+Running ORCA for 50775_conformation_optimized_1_1
+Renaming molden.input to molden for 50775_conformation_optimized_1_1
+Running molden2molden for 50775_conformation_optimized_1_1
+Moving 19422_conformation_optimized_4_1_janpa.out to janpa_done
+Deleting temporary directory for 19422_conformation_optimized_4_1
+Copying files for 38481_conformation_optimized_4_0
+Running ORCA for 38481_conformation_optimized_4_0
+Renaming molden.input to molden for 38481_conformation_optimized_4_0
+Running molden2molden for 38481_conformation_optimized_4_0
+Running JANPA for 24304_conformation_optimized_3_1
+Moving 38140_conformation_optimized_4_0_janpa.out to janpa_done
+Deleting temporary directory for 38140_conformation_optimized_4_0
+Running JANPA for 34238_conformation_optimized_3_-1
+Copying files for 14452_conformation_optimized_1_1
+Running ORCA for 14452_conformation_optimized_1_1
+Moving 24304_conformation_optimized_3_-1_janpa.out to janpa_done
+Deleting temporary directory for 24304_conformation_optimized_3_-1
+Renaming molden.input to molden for 14452_conformation_optimized_1_1
+Running molden2molden for 14452_conformation_optimized_1_1
+Copying files for 9342_conformation_optimized_0_-1
+Running ORCA for 9342_conformation_optimized_0_-1
+Renaming molden.input to molden for 9342_conformation_optimized_0_-1
+Running molden2molden for 9342_conformation_optimized_0_-1
+Moving 14884_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 14884_conformation_optimized_1_-1
+Copying files for 25597_conformation_optimized_4_1
+Running ORCA for 25597_conformation_optimized_4_1
+Running JANPA for 14452_conformation_optimized_1_1
+Running JANPA for 9342_conformation_optimized_0_-1
+Renaming molden.input to molden for 25597_conformation_optimized_4_1
+Running molden2molden for 25597_conformation_optimized_4_1
+Moving 24089_conformation_optimized_3_-1_janpa.out to janpa_done
+Deleting temporary directory for 24089_conformation_optimized_3_-1
+Copying files for 3390_conformation_optimized_2_0
+Running ORCA for 3390_conformation_optimized_2_0
+Running JANPA for 26512_conformation_optimized_1_1
+Renaming molden.input to molden for 3390_conformation_optimized_2_0
+Running molden2molden for 3390_conformation_optimized_2_0
+Running JANPA for 38481_conformation_optimized_4_0
+Running JANPA for 50775_conformation_optimized_1_1
+Moving 18937_conformation_optimized_4_1_janpa.out to janpa_done
+Deleting temporary directory for 18937_conformation_optimized_4_1
+Copying files for 41409_conformation_optimized_0_-1
+Running ORCA for 41409_conformation_optimized_0_-1
+Running JANPA for 3390_conformation_optimized_2_0
+Moving 14452_conformation_optimized_1_1_janpa.out to janpa_done
+Deleting temporary directory for 14452_conformation_optimized_1_1
+Copying files for 18948_conformation_optimized_0_1
+Running ORCA for 18948_conformation_optimized_0_1
+Moving 5132_conformation_optimized_2_-1_janpa.out to janpa_done
+Deleting temporary directory for 5132_conformation_optimized_2_-1
+Copying files for 39761_conformation_optimized_4_1
+Renaming molden.input to molden for 18948_conformation_optimized_0_1
+Moving 7472_conformation_optimized_1_1_janpa.out to janpa_done
+Deleting temporary directory for 7472_conformation_optimized_1_1
+Running molden2molden for 18948_conformation_optimized_0_1
+Running ORCA for 39761_conformation_optimized_4_1
+Renaming molden.input to molden for 41409_conformation_optimized_0_-1
+Running molden2molden for 41409_conformation_optimized_0_-1
+Copying files for 33835_conformation_optimized_4_-1
+Running ORCA for 33835_conformation_optimized_4_-1
+Moving 9342_conformation_optimized_0_-1_janpa.out to janpa_done
+Deleting temporary directory for 9342_conformation_optimized_0_-1
+Copying files for 18937_conformation_optimized_4_-1
+Running ORCA for 18937_conformation_optimized_4_-1
+Renaming molden.input to molden for 33835_conformation_optimized_4_-1
+Running molden2molden for 33835_conformation_optimized_4_-1
+Renaming molden.input to molden for 18937_conformation_optimized_4_-1
+Running molden2molden for 18937_conformation_optimized_4_-1
+Running JANPA for 25597_conformation_optimized_4_1
+Renaming molden.input to molden for 39761_conformation_optimized_4_1
+Running molden2molden for 39761_conformation_optimized_4_1
+Running JANPA for 18948_conformation_optimized_0_1
+Running JANPA for 33835_conformation_optimized_4_-1
+Moving 50889_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 50889_conformation_optimized_1_-1
+Copying files for 50889_conformation_optimized_1_1
+Running ORCA for 50889_conformation_optimized_1_1
+Renaming molden.input to molden for 50889_conformation_optimized_1_1
+Running molden2molden for 50889_conformation_optimized_1_1
+Moving 41382_conformation_optimized_0_-1_janpa.out to janpa_done
+Deleting temporary directory for 41382_conformation_optimized_0_-1
+Copying files for 17776_conformation_optimized_1_-1
+Running ORCA for 17776_conformation_optimized_1_-1
+Moving 18674_conformation_optimized_3_0_janpa.out to janpa_done
+Deleting temporary directory for 18674_conformation_optimized_3_0
+Copying files for 3702_conformation_optimized_1_0
+Running ORCA for 3702_conformation_optimized_1_0
+Moving 41409_conformation_optimized_0_0_janpa.out to janpa_done
+Deleting temporary directory for 41409_conformation_optimized_0_0
+Copying files for 34199_conformation_optimized_1_-1
+Running ORCA for 34199_conformation_optimized_1_-1
+Renaming molden.input to molden for 34199_conformation_optimized_1_-1
+Running molden2molden for 34199_conformation_optimized_1_-1
+Renaming molden.input to molden for 3702_conformation_optimized_1_0
+Running molden2molden for 3702_conformation_optimized_1_0
+Moving 30634_conformation_optimized_2_0_janpa.out to janpa_done
+Deleting temporary directory for 30634_conformation_optimized_2_0
+Copying files for 28443_conformation_optimized_2_0
+Running ORCA for 28443_conformation_optimized_2_0
+Renaming molden.input to molden for 28443_conformation_optimized_2_0
+Running molden2molden for 28443_conformation_optimized_2_0
+Renaming molden.input to molden for 17776_conformation_optimized_1_-1
+Running molden2molden for 17776_conformation_optimized_1_-1
+Moving 21608_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 21608_conformation_optimized_1_-1
+Copying files for 19990_conformation_optimized_4_-1
+Running ORCA for 19990_conformation_optimized_4_-1
+Running JANPA for 28443_conformation_optimized_2_0
+Running JANPA for 41409_conformation_optimized_0_-1
+Running JANPA for 18937_conformation_optimized_4_-1
+Running JANPA for 34199_conformation_optimized_1_-1
+Renaming molden.input to molden for 19990_conformation_optimized_4_-1
+Running molden2molden for 19990_conformation_optimized_4_-1
+Moving 43651_conformation_optimized_4_-1_janpa.out to janpa_done
+Deleting temporary directory for 43651_conformation_optimized_4_-1
+Copying files for 7317_conformation_optimized_4_-1
+Running ORCA for 7317_conformation_optimized_4_-1
+Moving 35845_conformation_optimized_1_1_janpa.out to janpa_done
+Deleting temporary directory for 35845_conformation_optimized_1_1
+Copying files for 8041_conformation_optimized_3_1
+Running ORCA for 8041_conformation_optimized_3_1
+Renaming molden.input to molden for 7317_conformation_optimized_4_-1
+Running molden2molden for 7317_conformation_optimized_4_-1
+Running JANPA for 50889_conformation_optimized_1_1
+Moving 29186_conformation_optimized_1_0_janpa.out to janpa_done
+Deleting temporary directory for 29186_conformation_optimized_1_0
+Copying files for 50436_conformation_optimized_3_1
+Running ORCA for 50436_conformation_optimized_3_1
+Running JANPA for 3702_conformation_optimized_1_0
+Renaming molden.input to molden for 50436_conformation_optimized_3_1
+Running molden2molden for 50436_conformation_optimized_3_1
+Running JANPA for 39761_conformation_optimized_4_1
+Renaming molden.input to molden for 8041_conformation_optimized_3_1
+Running molden2molden for 8041_conformation_optimized_3_1
+Moving 36153_conformation_optimized_3_-1_janpa.out to janpa_done
+Deleting temporary directory for 36153_conformation_optimized_3_-1
+Copying files for 20918_conformation_optimized_4_1
+Running ORCA for 20918_conformation_optimized_4_1
+Running JANPA for 7317_conformation_optimized_4_-1
+Moving 3390_conformation_optimized_2_0_janpa.out to janpa_done
+Deleting temporary directory for 3390_conformation_optimized_2_0
+Copying files for 822_conformation_optimized_0_1
+Running ORCA for 822_conformation_optimized_0_1
+Renaming molden.input to molden for 822_conformation_optimized_0_1
+Running molden2molden for 822_conformation_optimized_0_1
+Running JANPA for 50436_conformation_optimized_3_1
+Renaming molden.input to molden for 20918_conformation_optimized_4_1
+Running molden2molden for 20918_conformation_optimized_4_1
+Moving 28443_conformation_optimized_2_0_janpa.out to janpa_done
+Deleting temporary directory for 28443_conformation_optimized_2_0
+Copying files for 45186_conformation_optimized_2_-1
+Running ORCA for 45186_conformation_optimized_2_-1
+Moving 33835_conformation_optimized_4_-1_janpa.out to janpa_done
+Deleting temporary directory for 33835_conformation_optimized_4_-1
+Copying files for 43221_conformation_optimized_2_1
+Running ORCA for 43221_conformation_optimized_2_1
+Renaming molden.input to molden for 45186_conformation_optimized_2_-1
+Running molden2molden for 45186_conformation_optimized_2_-1
+Running JANPA for 17776_conformation_optimized_1_-1
+Renaming molden.input to molden for 43221_conformation_optimized_2_1
+Running molden2molden for 43221_conformation_optimized_2_1
+Running JANPA for 43221_conformation_optimized_2_1
+Running JANPA for 19990_conformation_optimized_4_-1
+Running JANPA for 45186_conformation_optimized_2_-1
+Moving 37222_conformation_optimized_3_0_janpa.out to janpa_done
+Deleting temporary directory for 37222_conformation_optimized_3_0
+Moving 18948_conformation_optimized_0_1_janpa.out to janpa_done
+Deleting temporary directory for 18948_conformation_optimized_0_1
+Copying files for 43924_conformation_optimized_2_-1
+Copying files for 17555_conformation_optimized_1_-1
+Running ORCA for 17555_conformation_optimized_1_-1
+Running ORCA for 43924_conformation_optimized_2_-1
+Running JANPA for 822_conformation_optimized_0_1
+Moving 43221_conformation_optimized_2_1_janpa.out to janpa_done
+Deleting temporary directory for 43221_conformation_optimized_2_1
+Copying files for 42140_conformation_optimized_4_1
+Running ORCA for 42140_conformation_optimized_4_1
+Renaming molden.input to molden for 17555_conformation_optimized_1_-1
+Running molden2molden for 17555_conformation_optimized_1_-1
+Renaming molden.input to molden for 42140_conformation_optimized_4_1
+Running molden2molden for 42140_conformation_optimized_4_1
+Renaming molden.input to molden for 43924_conformation_optimized_2_-1
+Running molden2molden for 43924_conformation_optimized_2_-1
+Running JANPA for 42140_conformation_optimized_4_1
+Running JANPA for 17555_conformation_optimized_1_-1
+Running JANPA for 8041_conformation_optimized_3_1
+Moving 34199_conformation_optimized_1_-1_janpa.out to janpa_done
+Deleting temporary directory for 34199_conformation_optimized_1_-1
+Copying files for 50889_conformation_optimized_3_-1
+Running ORCA for 50889_conformation_optimized_3_-1
+Moving 22822_conformation_optimized_3_1_janpa.out to janpa_done
+Deleting temporary directory for 22822_conformation_optimized_3_1
+Copying files for 17776_conformation_optimized_4_0
+Running ORCA for 17776_conformation_optimized_4_0
+Renaming molden.input to molden for 50889_conformation_optimized_3_-1
+Running molden2molden for 50889_conformation_optimized_3_-1
+Running JANPA for 43924_conformation_optimized_2_-1
+Renaming molden.input to molden for 17776_conformation_optimized_4_0
+Running molden2molden for 17776_conformation_optimized_4_0
+Moving 42140_conformation_optimized_4_1_janpa.out to janpa_done
+Deleting temporary directory for 42140_conformation_optimized_4_1
+Copying files for 39083_conformation_optimized_2_0
+Running ORCA for 39083_conformation_optimized_2_0
+Renaming molden.input to molden for 39083_conformation_optimized_2_0
+Running molden2molden for 39083_conformation_optimized_2_0
+Moving 50572_conformation_optimized_1_1_janpa.out to janpa_done
+Deleting temporary directory for 50572_conformation_optimized_1_1
+Copying files for 514_conformation_optimized_1_0
+Running ORCA for 514_conformation_optimized_1_0
+Renaming molden.input to molden for 514_conformation_optimized_1_0
+Running molden2molden for 514_conformation_optimized_1_0
+Running JANPA for 39083_conformation_optimized_2_0
+Running JANPA for 514_conformation_optimized_1_0
+Running JANPA for 50889_conformation_optimized_3_-1
+Moving 50770_conformation_optimized_0_-1_janpa.out to janpa_done
+Deleting temporary directory for 50770_conformation_optimized_0_-1
+Copying files for 50436_conformation_optimized_4_0
+Running ORCA for 50436_conformation_optimized_4_0
+Renaming molden.input to molden for 50436_conformation_optimized_4_0
+Running molden2molden for 50436_conformation_optimized_4_0
+Moving 37222_conformation_optimized_4_1_janpa.out to janpa_done
+Deleting temporary directory for 37222_conformation_optimized_4_1
+Copying files for 37123_conformation_optimized_4_0
+Running ORCA for 37123_conformation_optimized_4_0
+Renaming molden.input to molden for 37123_conformation_optimized_4_0
+Running molden2molden for 37123_conformation_optimized_4_0
+Running JANPA for 20918_conformation_optimized_4_1
+Running JANPA for 50436_conformation_optimized_4_0
+Running JANPA for 37123_conformation_optimized_4_0
+Moving 45186_conformation_optimized_2_-1_janpa.out to janpa_done
+Deleting temporary directory for 45186_conformation_optimized_2_-1
+Copying files for 50775_conformation_optimized_0_1
+Running ORCA for 50775_conformation_optimized_0_1
+Moving 26633_conformation_optimized_2_-1_janpa.out to janpa_done
+Deleting temporary directory for 26633_conformation_optimized_2_-1
+Copying files for 40915_conformation_optimized_0_-1
+Running ORCA for 40915_conformation_optimized_0_-1
+Renaming molden.input to molden for 50775_conformation_optimized_0_1
+Running molden2molden for 50775_conformation_optimized_0_1
+Running JANPA for 17776_conformation_optimized_4_0
+Moving 27135_conformation_optimized_1_1_janpa.out to janpa_done
+Deleting temporary directory for 27135_conformation_optimized_1_1
+Copying files for 25512_conformation_optimized_2_-1
+Running ORCA for 25512_conformation_optimized_2_-1
+Renaming molden.input to molden for 40915_conformation_optimized_0_-1
+Running molden2molden for 40915_conformation_optimized_0_-1
+Renaming molden.input to molden for 25512_conformation_optimized_2_-1
+Running molden2molden for 25512_conformation_optimized_2_-1
+Running JANPA for 25512_conformation_optimized_2_-1
+Moving 30173_conformation_optimized_3_1_janpa.out to janpa_done
+Deleting temporary directory for 30173_conformation_optimized_3_1
+Copying files for 20940_conformation_optimized_4_1
+Running ORCA for 20940_conformation_optimized_4_1
+Renaming molden.input to molden for 20940_conformation_optimized_4_1
+Running molden2molden for 20940_conformation_optimized_4_1
+Moving 7317_conformation_optimized_4_-1_janpa.out to janpa_done
+Deleting temporary directory for 7317_conformation_optimized_4_-1
+Copying files for 24089_conformation_optimized_1_-1
+Running ORCA for 24089_conformation_optimized_1_-1
+Running JANPA for 50775_conformation_optimized_0_1
+Renaming molden.input to molden for 24089_conformation_optimized_1_-1
+Running molden2molden for 24089_conformation_optimized_1_-1
+Running JANPA for 20940_conformation_optimized_4_1
+Running JANPA for 40915_conformation_optimized_0_-1
